@@ -1,4 +1,7 @@
 {
-    "ios": "0.25.3",
-    "android": "0.25.1"
+    "productionIOS": "0.25.3",
+    "testflightIOS": "0.25.4",
+    "appCenterIOS": "0.27.0",
+    "productionAndroid": "0.25.1",
+    "appCenterAndroid": "0.27.0"
 }
