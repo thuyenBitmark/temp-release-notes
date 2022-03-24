@@ -1,15 +1,19 @@
-{
-    "0.25.1": {
+[
+    {
+        "version": "0.23.1",
         "ios": "Something"
     },
-    "0.25.2": {
-        "android": "mizn"
+    {
+        "version": "0.23.2",
+        "ios": "mizn"
     },
-    "0.25.3": {
-        "all": "this new"
+    {
+        "version": "0.23.3",
+        "ios": "this new"
     },
-    "0.23.6": {
+    {
+        "version": "0.23.6",
         "ios": "this is iOS",
         "android": "this is android"
     }
-}
+]
