@@ -1,7 +1,18 @@
 {
-    "productionIOS": "0.25.3",
-    "testflightIOS": "0.25.4",
-    "appCenterIOS": "0.27.0",
-    "productionAndroid": "0.25.1",
-    "appCenterAndroid": "0.27.0"
+    "productionIOS": {
+        "requiredVersion": "0.25.1",
+        "link": "https://apps.apple.com/us/app/autonomy-app/id1544022728"
+    },
+    "testIOS": {
+        "requiredVersion": "0.25.1",
+        "link": "https://install.appcenter.ms/orgs/support-zzd0-28/apps/autonomy-1/distribution_groups/testers"
+    },
+    "productionAndroid": {
+        "requiredVersion": "0.25.1",
+        "link": "https://play.google.com/store/apps/details?id=com.bitmark.autonomy_client"
+    },
+    "testAndroid": {
+        "requiredVersion": "0.25.1",
+        "link": "https://install.appcenter.ms/orgs/support-zzd0-28/apps/autonomy-android-1/distribution_groups/bitmark%20internal%20testers"
+    }
 }
