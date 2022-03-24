@@ -13,7 +13,7 @@
     },
     {
         "version": "0.23.6",
-        "ios": "this is iOS",
+        "ios": "## Emphasis\n**This is bold text**\n__This is bold text_\n*This is italic text*",
         "android": "this is android"
     }
 ]
