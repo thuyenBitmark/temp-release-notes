@@ -1,0 +1,15 @@
+{
+    "0.25.1": {
+        "ios": "Something"
+    },
+    "0.25.2": {
+        "android": "mizn"
+    },
+    "0.25.3": {
+        "all": "this new"
+    },
+    "0.23.6": {
+        "ios": "this is iOS",
+        "android": "this is android"
+    }
+}
